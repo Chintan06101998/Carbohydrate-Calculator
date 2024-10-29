@@ -24,8 +24,7 @@ To run the tests, you'll need:
 
 You can run the tests in two ways:
 
-1. **Using `testng.xml`:** Execute the `testng.xml` file from your command line using the `testng` command.
-2. **Using your IDE:** Most IDEs allow running TestNG tests directly
+1. **Using your IDE:** Most IDEs allow running TestNG tests directly
 
 ## Key Features
 
